@@ -1,0 +1,28 @@
+﻿  Card.cpp
+  Blackjack.cpp
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(92): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(100): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(109): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(112): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(115): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(134): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(175): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\blackjack.cpp(180): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+  Generating Code...
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\card.cpp(40): warning C4715: 'Card::GetValue': not all control paths return a value
+  Compiling...
+  Player.cpp
+c:\users\user\documents\visual studio 2015\projects\myblackjack\myblackjack\player.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  MyBlackjack.cpp
+  Generating Code...
+  MyBlackjack.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\MyBlackjack\Debug\MyBlackjack.exe
+  MyBlackjack.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\MyBlackjack\Debug\MyBlackjack.pdb (Full PDB)
